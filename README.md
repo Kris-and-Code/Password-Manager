@@ -67,4 +67,20 @@ All passwords must have:
 
 ## Warning
 
-Keep your master password safe! If you lose it, you won't be able to recover your stored passwords.    
+Keep your master password safe! If you lose it, you won't be able to recover your stored passwords.
+
+## GUI Version
+
+The password manager now includes a graphical user interface! To run the GUI version:
+
+```bash
+python gui_password_manager.py
+```
+
+GUI Features:
+- User-friendly interface
+- Easy password management
+- Password generator with customizable length
+- Secure password viewing with auto-hide
+- Simple service deletion
+- Master password protection    
